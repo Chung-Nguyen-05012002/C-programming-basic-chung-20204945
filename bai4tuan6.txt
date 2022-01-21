@@ -1,0 +1,14 @@
+A computer is a machine that can be programmed
+to carry out sequences of arithmetic 
+logical operations automatically.
+Modern computers can perform 
+generic sets of operations
+known as programs.
+These programs enable
+computers to perform
+a wide range of tasks
+. A computer system is a
+computer that includes
+the hardware
+omputers that are linked
+function together, such as a computer .
